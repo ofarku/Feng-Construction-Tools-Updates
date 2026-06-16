@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-16T00:00:00",
+  "default_offline_grace_days": 30,
+  "licenses": {
+    "FENG-20260610-532173": {
+      "status": "active",
+      "expires_on": "2026-09-08",
+      "offline_grace_days": 30,
+      "machine_codes": [
+        "EA1767-927317-5AF8ED-13E217"
+      ],
+      "updated_at": "2026-06-16T00:00:00"
+    }
+  }
+}
