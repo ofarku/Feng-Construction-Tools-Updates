@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "product": "Feng Construction Tools",
-  "version": "1.0.0.3",
-  "name": "Feng Construction Tools 1.0.0.3",
+  "version": "1.0.0.4",
+  "name": "Feng Construction Tools 1.0.0.4",
   "release_url": "https://github.com/ofarku/Feng-Construction-Tools-Updates/releases/latest",
-  "download_url": "https://github.com/ofarku/Feng-Construction-Tools-Updates/releases/latest/download/Feng%20Construction%20Tools.exe",
+  "download_url": "https://github.com/ofarku/Feng-Construction-Tools-Updates/releases/latest",
   "mandatory": false,
-  "notes": "Manifest tabanli guncelleme kontrolu eklendi. Kaynak repo private kalir; program public update manifestinden surum kontrolu yapar."
+  "notes": "Test guncellemesi. Program public version.json manifestinden yeni surumu algilamali ve latest release sayfasina yonlendirmelidir."
 }
