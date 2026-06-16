@@ -1,10 +1,11 @@
 {
   "schema_version": 1,
   "product": "Feng Construction Tools",
-  "version": "1.0.0.4",
-  "name": "Feng Construction Tools 1.0.0.4",
+  "version": "1.0.0.5",
+  "name": "Feng Construction Tools 1.0.0.5",
   "release_url": "https://github.com/ofarku/Feng-Construction-Tools-Updates/releases/latest",
   "download_url": "https://github.com/ofarku/Feng-Construction-Tools-Updates/releases/latest",
-  "mandatory": false,
-  "notes": "Test guncellemesi. Program public version.json manifestinden yeni surumu algilamali ve latest release sayfasina yonlendirmelidir."
+  "mandatory": true,
+  "grace_days": 30,
+  "notes": "Zorunlu guncelleme politikasi eklendi. Program yeni zorunlu surumu ilk gordugu tarihten itibaren 30 gun tolerans verir, sure dolunca eski surumle islem baslatmaz."
 }
