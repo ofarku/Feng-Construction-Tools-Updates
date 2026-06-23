@@ -1,16 +1,18 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-16T00:00:00",
+  "generated_at": "2026-06-23T00:00:00",
   "default_offline_grace_days": 30,
   "licenses": {
     "FENG-20260610-532173": {
       "status": "active",
       "expires_on": "2026-09-08",
       "offline_grace_days": 30,
-      "machine_codes": [
-        "EA1767-927317-5AF8ED-13E217"
+      "require_online_first": false,
+      "machine_code_hashes": [
+        "D6F6DB03BB97DE71AD098A9FC6AF25E48F91506FFC99D47BD434C1C463A90320",
+        "8051549E2B231CB1A7E3C999503C3790759D282951EDD23017052204FA679BE6"
       ],
-      "updated_at": "2026-06-16T00:00:00"
+      "updated_at": "2026-06-23T00:00:00"
     }
   }
 }
