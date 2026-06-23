@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "product": "Feng Construction Tools",
-  "version": "1.0.0.7",
-  "name": "Feng Construction Tools 1.0.0.7",
+  "version": "1.0.0.11",
+  "name": "Feng Construction Tools 1.0.0.11",
   "release_url": "https://github.com/ofarku/Feng-Construction-Tools-Updates/releases/latest",
-  "download_url": "https://github.com/ofarku/Feng-Construction-Tools-Updates/releases/latest",
+  "download_url": "https://github.com/ofarku/Feng-Construction-Tools-Updates/raw/main/Feng%20Construction%20Tools.exe",
   "mandatory": true,
   "grace_days": 30,
-  "notes": "Beta lisans yonetimi gelistirildi. Yeni lisanslar ilk kullanimda online dogrulama sarti, kisa offline tolerans ve disaridan guncellenebilir license_status.json akisi ile yonetilebilir."
+  "notes": "MTL coklu XSR klasorleri iyilestirildi. Prod listeleri dosya/boy bazinda ayri adet ve kg kolonlarina ayrilir; summary revision ve onceki MTL raporlari otomatik atlanir."
 }

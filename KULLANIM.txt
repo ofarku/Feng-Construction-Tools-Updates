@@ -1,0 +1,6 @@
+Feng Construction Tools 1.0.0.11
+
+- MTL coklu XSR klasorleri icin kaynak bazli adet/kg kolonlari eklendi.
+- Ornek: 30H 34m, 30H 40m, 30H 46m kaynaklari ayri kolonlarda gorunur.
+- Kaynak Toplam sayfasi eklendi; her kaynak ve kategori icin satir, adet ve kg toplamlari verilir.
+- Summary revision list XSR dosyalari ve onceki MTL_Raporu Excel dosyalari otomatik atlanir.
