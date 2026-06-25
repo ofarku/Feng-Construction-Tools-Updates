@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "product": "Feng Construction Tools",
-  "version": "1.0.0.13",
-  "name": "Feng Construction Tools 1.0.0.13",
+  "version": "1.0.0.14",
+  "name": "Feng Construction Tools 1.0.0.14",
   "release_url": "https://github.com/ofarku/Feng-Construction-Tools-Updates/releases/latest",
   "download_url": "https://github.com/ofarku/Feng-Construction-Tools-Updates/raw/main/Feng%20Construction%20Tools.exe",
   "mandatory": true,
   "grace_days": 30,
-  "notes": "Kiyas toleransi tek 0.5/1 mm secimine indirildi. Plaka profil olculeri metin yerine sayisal toleransla karsilastirilir. M.D, M.D., MD ve M D notlari esdeger kabul edilir."
+  "notes": "Kart Editor eklendi. Cevrilmis kartlar 2D teknik resim, delik offsetleri, kontur ve radius olculeri, bukum cizgileri, katman secimleri ve iki nokta arasi olcum araci ile incelenebilir."
 }
