@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "product": "Feng Construction Tools",
-  "version": "1.0.0.12",
-  "name": "Feng Construction Tools 1.0.0.12",
+  "version": "1.0.0.13",
+  "name": "Feng Construction Tools 1.0.0.13",
   "release_url": "https://github.com/ofarku/Feng-Construction-Tools-Updates/releases/latest",
   "download_url": "https://github.com/ofarku/Feng-Construction-Tools-Updates/raw/main/Feng%20Construction%20Tools.exe",
   "mandatory": true,
   "grace_days": 30,
-  "notes": "BOM kiyasina opsiyonel Not, M.D. / Matkap ve Kaynakli kontrolleri eklendi. M.D., MD, M.D.-K, M.D.K, K ve TAKIM ADI gibi farkli yazimlar birlikte degerlendirilir."
+  "notes": "Kiyas toleransi tek 0.5/1 mm secimine indirildi. Plaka profil olculeri metin yerine sayisal toleransla karsilastirilir. M.D, M.D., MD ve M D notlari esdeger kabul edilir."
 }
